@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1G175
+D Single D-type flip-flop with reset; positive-edge trigger
+F doc/74LVC1G175.pdf
+$ENDCMP
+#
+#End Doc Library
