@@ -10,4 +10,9 @@ D very low drop voltage regulator
 F doc/LDF33DT-TR.pdf
 $ENDCMP
 #
+$CMP NCV8774DT33RKG
+D Ultra Low Iq 350 mA LDO Regulator
+F doc/NCV8774-PP-D.PDF
+$ENDCMP
+#
 #End Doc Library
