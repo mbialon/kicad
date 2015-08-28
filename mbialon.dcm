@@ -5,6 +5,11 @@ D Single D-type flip-flop with reset; positive-edge trigger
 F doc/74LVC1G175.pdf
 $ENDCMP
 #
+$CMP 74LVC1G74
+D Single D-type flip-flop with set and reset; positive edge trigger
+F doc/74LVC1G74.pdf
+$ENDCMP
+#
 $CMP LDF33DT-TR
 D very low drop voltage regulator
 F doc/LDF33DT-TR.pdf
