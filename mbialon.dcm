@@ -10,6 +10,11 @@ D Single D-type flip-flop with set and reset; positive edge trigger
 F doc/74LVC1G74.pdf
 $ENDCMP
 #
+$CMP BISS0001
+D Micro Power PIR Motion Detector IC
+F doc/BISS0001.pdf
+$ENDCMP
+#
 $CMP LDF33DT-TR
 D very low drop voltage regulator
 F doc/LDF33DT-TR.pdf
